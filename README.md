@@ -1,22 +1,17 @@
-# ¡Hola, bienvenido a mi perfil! 👋  
+# 👨‍💻 Software Developer  
 
-Soy un estudiante de Desarrollo de Aplicaciones Web y Multiplataforma apasionado por la tecnología y el código limpio. Aquí encontrarás proyectos y apuntes sobre mi aprendizaje y experimentación en distintas tecnologías.  
+I'm a **web and multiplatform developer** passionate about building efficient, accessible, and user-centered applications.  
+
+I work across both **frontend** and **backend**, but my main focus is on crafting seamless user experiences.  
 
 ## 🛠️ Tech Stack  
-🚀 **Frontend:** HTML, CSS, JavaScript, React.js, Astro, Next.js  
-⚡ **Estilos:** Tailwind CSS, Bootstrap  
-🖥️ **Backend:** Node.js  
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Astro  
+- **Styling:** Tailwind CSS, Bootstrap  
+- **Backend:** Node.js  
 
-## 🌍 Idiomas  
-Mi idioma principal es el **español**, pero también puedo trabajar sin problemas en **inglés**.  
-Actualmente, estoy aprendiendo **japonés** por hobbie.  
+## 🌍 Languages  
+- **Spanish** (native)  
+- **English** (fluent)  
+- **Japanese** (learning)  
 
-## 📌 Sobre mí  
-- 💡 Siempre aprendiendo y mejorando mis habilidades en desarrollo.  
-- 🔥 Me interesa el mundo del desarrollo web y multiplataforma.  
-- 🎯 Subiré proyectos, apuntes y experimentos a este repositorio.  
-
-## 🎭 Hobbies  
-🏋️‍♂️ Entrenar | 🎌 Cultura nipona | ✈️ Viajar |
-
-¡Nos vemos en el código! 🚀  
+I'm always looking for new challenges and opportunities to grow. Let's build something great together! 🚀  
