@@ -18,3 +18,5 @@ I work across both **frontend** and **backend**, but my main focus is on craftin
 - **Japanese** (learning)  
 
 I'm always looking for new challenges and opportunities to grow. Let's build something great together! 🚀  
+
+![Captura de pantalla 2025-02-15 172714](https://github.com/user-attachments/assets/073c860a-7f40-416c-9a72-38a171594d8b)
