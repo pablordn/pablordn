@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola, bienvenido a mi perfil! 👋  
 
-<!--
-**pablordn/pablordn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de Desarrollo de Aplicaciones Web y Multiplataforma apasionado por la tecnología y el código limpio. Aquí encontrarás proyectos y apuntes sobre mi aprendizaje y experimentación en distintas tecnologías.  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+🚀 **Frontend:** HTML, CSS, JavaScript, React.js, Astro, Next.js  
+⚡ **Estilos:** Tailwind CSS, Bootstrap  
+🖥️ **Backend:** Node.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Idiomas  
+Mi idioma principal es el **español**, pero también puedo trabajar sin problemas en **inglés**.  
+Actualmente, estoy aprendiendo **japonés** por hobbie.  
+
+## 📌 Sobre mí  
+- 💡 Siempre aprendiendo y mejorando mis habilidades en desarrollo.  
+- 🔥 Me interesa el mundo del desarrollo web y multiplataforma.  
+- 🎯 Subiré proyectos, apuntes y experimentos a este repositorio.  
+
+## 🎭 Hobbies  
+🏋️‍♂️ Entrenar | 🎌 Cultura nipona | ✈️ Viajar |
+
+¡Nos vemos en el código! 🚀  
