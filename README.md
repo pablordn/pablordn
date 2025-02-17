@@ -11,7 +11,7 @@ I work across both **frontend** and **backend**, but my main focus is on craftin
 - **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Astro  
 - **Styling:** Tailwind CSS, Bootstrap  
 - **Backend:** Node.js  
-- **Learning**  Zustand and shadcn/ui
+- **Learning:**  Zustand and shadcn/ui
 ## 🌍 Languages  
 - **Spanish** (native)  
 - **English** (fluent)  
