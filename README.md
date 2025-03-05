@@ -8,10 +8,10 @@ I'm a **web and multiplatform developer** passionate about building efficient, a
 I work across both **frontend** and **backend**, but my main focus is on crafting seamless user experiences.  
 
 ## 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Astro  
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Astro
 - **Styling:** Tailwind CSS, Bootstrap  
 - **Backend:** Node.js  
-- **Learning:**  Zustand, TanStack Query and React Context
+- **Learning:**  Framer Motion, React Mobile
 ## 🌍 Languages  
 - **Spanish** (native)  
 - **English** (fluent)  
